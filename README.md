@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericmaddox&show_icons=true&theme=tokyonight&rank_icon=github" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmaddox&theme=tokyonight" width="40%" />
+</div>
+
 ### About Me
 
 👋🏻 **Hi there!**
@@ -27,8 +32,6 @@ solutions that streamline processes within my professional field. My
 dedication to **learning and professional development** drives me to 
 continuously acquire new skills and knowledge, enhancing my value as a 
 team player and an asset to any organization.
-
-
 
 <!---
 ericmaddox/ericmaddox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
