@@ -41,6 +41,11 @@ dedication to **learning and professional development** drives me to
 continuously acquire new skills and knowledge, enhancing my value as a 
 team player and an asset to any organization.
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=ff6b81&labelColor=9b59b6" alt="Profile Visit Counter" />
+</div>
+
+
 <!---
 ericmaddox/ericmaddox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
