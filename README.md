@@ -60,6 +60,8 @@ dedication to **learning and professional development** drives me to
 continuously acquire new skills and knowledge, enhancing my value as a 
 team player and an asset to any organization.
 
+![Eric's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ericmaddox&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=34d399&area=true&hide_border=true&custom_title=Eric's%20GitHub%20Activity%20Graph)
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=ff6b81&labelColor=9b59b6" alt="Profile Visit Counter" />
 </div>
