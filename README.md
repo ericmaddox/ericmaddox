@@ -38,16 +38,11 @@
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=green)
 
 
-
-
-
-
-
-
-
 ### About Me
 
+```python
 print("Hello, World!")
+```
 
 I spent over a decade in a career they make movies about. 
 
@@ -66,7 +61,7 @@ with exceptional academic scores.
 Leveraging my extensive background in law enforcement, coupled with my 
 education and expertise in project management, I have transitioned into 
 a pivotal role within the technology industry. As a Technical Program 
-Manager II, I currently lead SaaS teams in deploying Real Time Crime Center 
+Manager II, I currently lead SaaS teams in deploying Real-Time Crime Center 
 (RTCC) Real-Time operations technology within law enforcement agencies 
 and SOC2 within the private sector.
 
@@ -81,7 +76,6 @@ team player and an asset to any organization.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=ff6b81&labelColor=9b59b6" alt="Profile Visit Counter" />
 </div>
-
 
 <!---
 ericmaddox/ericmaddox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
