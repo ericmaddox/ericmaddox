@@ -26,6 +26,7 @@
 ### 🐍 **Python Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Homebrew](https://img.shields.io/badge/homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=orange)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
