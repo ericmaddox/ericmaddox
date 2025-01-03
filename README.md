@@ -22,9 +22,19 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Runestone](https://img.shields.io/badge/-Runestone-008C4B?style=flat-square&logo=runestone&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![monday.com](https://img.shields.io/badge/-monday.com-FF6F00?style=flat-square&logo=monday&logoColor=white)
 
+
+### 🐍 **Python Tech Stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-FF6347?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-007ACC?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white)
+![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=for-the-badge&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=for-the-badge&logo=python&logoColor=white)
 
 
 
@@ -49,8 +59,8 @@ with exceptional academic scores.
 
 Leveraging my extensive background in law enforcement, coupled with my 
 education and expertise in project management, I have transitioned into 
-a pivotal role within the technology industry. As a Technical Project 
-Manager, I currently lead SaaS teams in deploying Real Time Crime Center 
+a pivotal role within the technology industry. As a Technical Program 
+Manager II, I currently lead SaaS teams in deploying Real Time Crime Center 
 (RTCC) Real-Time operations technology within law enforcement agencies 
 and SOC2 within the private sector.
 
