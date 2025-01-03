@@ -35,6 +35,12 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white)
 ![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=for-the-badge&logo=python&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=for-the-badge&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=green)
+
+
+
+
+
 
 
 
