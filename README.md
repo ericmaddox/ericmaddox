@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ericmaddox&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Eric%20Maddox's%20GitHub%20Stats" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmaddox&theme=tokyonight&custom_title=Eric%20Maddox's%20GitHub%20Stats" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmaddox&theme=tokyonight&custom_title=Eric's%20Most%20Used%20Languages" width="40%" />
 </div>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ericmaddox270/" target="_blank">
