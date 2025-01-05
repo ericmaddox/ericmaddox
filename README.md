@@ -35,7 +35,7 @@
 ![GenAI](https://img.shields.io/badge/GenAI-007ACC?style=flat-square&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logo=python&logoColor=white)
 ![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=flat-square&logo=python&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=aiohttp&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat-square&logo=dotenv&logoColor=green)
 
 ### About Me
