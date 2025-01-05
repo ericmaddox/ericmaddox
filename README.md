@@ -11,32 +11,35 @@
 </div>
 
 ### 🚀 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FF5733?style=for-the-badge&logo=ollama&logoColor=white)
-![Gemini 2.0 Flash](https://img.shields.io/badge/Gemini%202.0%20Flash-4B9CD3?style=for-the-badge&logo=gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Runestone](https://img.shields.io/badge/Runestone-008C4B?style=for-the-badge&logo=runestone&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF5733?style=flat-square&logo=ollama&logoColor=white)
+![Gemini 2.0 Flash](https://img.shields.io/badge/Gemini%202.0%20Flash-4B9CD3?style=flat-square&logo=gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Runestone](https://img.shields.io/badge/Runestone-008C4B?style=flat-square&logo=runestone&logoColor=white)
+
 
 ### 🐍 **Python Tech Stack**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Homebrew](https://img.shields.io/badge/homebrew-000000?style=for-the-badge&logo=homebrew&logoColor=orange)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-FF6347?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GenAI](https://img.shields.io/badge/GenAI-007ACC?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white)
-![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=for-the-badge&logo=python&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=for-the-badge&logo=python&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=green)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Homebrew](https://img.shields.io/badge/Homebrew-000000?style=flat-square&logo=homebrew&logoColor=orange)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=folium&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-FF6347?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-007ACC?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logo=python&logoColor=white)
+![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=flat-square&logo=python&logoColor=white)
+![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=python&logoColor=white)
+![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat-square&logo=dotenv&logoColor=green)
+
+
 
 
 ### About Me
