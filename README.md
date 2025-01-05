@@ -12,17 +12,16 @@
 
 ### 🚀 **Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FF5733?style=flat-square&logo=ollama&logoColor=white)
-![Gemini 2.0 Flash](https://img.shields.io/badge/Gemini%202.0%20Flash-4B9CD3?style=flat-square&logo=gemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF5733?style=flat-square&logo=ollama&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google-gemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Runestone](https://img.shields.io/badge/Runestone-008C4B?style=flat-square&logo=runestone&logoColor=white)
-
 
 ### 🐍 **Python Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,9 +37,6 @@
 ![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=flat-square&logo=python&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=python&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat-square&logo=dotenv&logoColor=green)
-
-
-
 
 ### About Me
 
