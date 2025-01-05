@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### 🚀 **Tech Stack:**
+### 🚀 **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -37,6 +37,10 @@
 ![Sodapy](https://img.shields.io/badge/Sodapy-DA4A14?style=flat-square&logo=python&logoColor=white)
 ![aiohttp](https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=aiohttp&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-000000?style=flat-square&logo=dotenv&logoColor=green)
+
+### 🎓 **Certifications**
+![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white)
+![IBM Python for Data Science, AI & Development](https://img.shields.io/badge/IBM%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development-052FAD?style=flat-square&logoColor=white)
 
 ### About Me
 
