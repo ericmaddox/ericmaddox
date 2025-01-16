@@ -50,6 +50,7 @@ I hold a **Bachelor's in Criminal Science** with a concentration in Forensics an
   <img src="https://img.shields.io/badge/aiohttp-61DAFB?style=flat-square&logo=aiohttp&logoColor=white" alt="aiohttp" />
   <img src="https://img.shields.io/badge/dotenv-000000?style=flat-square&logo=dotenv&logoColor=green" alt="dotenv" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </div>
 
 ---
