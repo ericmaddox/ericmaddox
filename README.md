@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/ericmaddox270/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow me on LinkedIn">
   </a>
+  <a href="https://dev.to/madds" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
+  </a>
 </div>
 
 ---
