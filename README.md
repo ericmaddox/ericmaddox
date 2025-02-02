@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
   <a href="https://aialchemist.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-AI%20Alchemist-blue?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode">
+    <img src="https://img.shields.io/badge/-AI%20Alchemist-7A77B8?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode">
   </a>
 </div>
 
