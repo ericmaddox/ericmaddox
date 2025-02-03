@@ -12,6 +12,8 @@
   </a>
 </div>
 
+[![DailyDev](https://readme-typing-svg.demolab.com?font=Alchemist&weight=600&size=32&duration=3800&pause=900&color=BB9AF7&background=1A1B26&center=true&vCenter=true&width=1200&lines=Join_my_Daily.dev_Squad%2C_The_AI_Alchemist_✨;Click_Here_to_Transmute_Code_💻→⚡;⚗️_Equivalent_Exchange_of_Algorithms_⚗️)](https://dly.to/sdYgf2q6PgF)
+
 ---
 
 ### 🖥️ **About Me**
