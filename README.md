@@ -7,8 +7,8 @@
   <a href="https://dev.to/madds" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="https://aialchemist.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-AI%20Alchemist-7A77B8?style=for-the-badge&logo=Hashnode&logoColor=white" alt="Hashnode">
+  <a href="https://aialchemist.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-AI%20Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7" alt="AI Alchemist">
   </a>
 </div>
 
