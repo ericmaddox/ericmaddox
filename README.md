@@ -18,7 +18,7 @@
 ```python
 print("Hello, World!")
 ```
-I spent 13 years in law enforcement, specializing in **SWAT** and **K9 operations**, before transitioning into the technology industry. Now, as a ** Senior Technical Program Manager **, I lead teams in implementing **Real-Time Crime Center (RTCC)** solutions for public and private sectors.
+I spent 13 years in law enforcement, specializing in **SWAT** and **K9 operations**, before transitioning into the technology industry. Now, as a **Senior Technical Program Manager**, I lead teams in implementing **Real-Time Crime Center (RTCC)** solutions for public and private sectors.
 
 I hold a **Bachelor's in Criminal Science** with a concentration in Forensics and Technology. I’m passionate about **coding in Python**, building innovative solutions, and delivering impactful SaaS technology.
 
