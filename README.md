@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 👨🏻‍💻 Welcome to Eric Maddox's GitHub</h1>
-  <p><strong>Technical Program Manager | Python Developer | SaaS Innovator</strong></p>
+  <p><strong>Senior Technical Program Manager | Python Developer | SaaS Innovator</strong></p>
   <a href="https://www.linkedin.com/in/ericmaddox270/" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Follow me on LinkedIn">
   </a>
