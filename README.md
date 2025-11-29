@@ -178,20 +178,13 @@ Fast-paced top-down space shooter featuring wave-based combat, persistent progre
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericmaddox&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Contribution%20Statistics&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericmaddox&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericmaddox&theme=github_dark" width="95%" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmaddox&theme=tokyonight&layout=donut&hide_border=true&custom_title=Language%20Distribution" width="40%" />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ericmaddox&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=34d399&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericmaddox&theme=github_dark" width="32%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ericmaddox&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&hide_border=true" width="32%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericmaddox&theme=github_dark" width="32%" alt="Top Languages" />
 </div>
 
 ---
