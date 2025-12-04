@@ -10,7 +10,12 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
 [![AI Alchemist](https://img.shields.io/badge/AI%20Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 
+<div align="center">
+  <a href="https://app.daily.dev/ericmaddox">
+    <img src="https://api.daily.dev/devcards/v2/Qns2XVTcg8qhZtLfzvE9M.png?type=wide&r=2xm" width="450" alt="Eric Maddox's Dev Card"/>
+  </a>
 </div>
+
 
 ---
 
@@ -115,14 +120,15 @@ As a Senior Technical Program Manager at Axon, I lead the implementation and dep
 ## 🎓 Education & Certifications
 
 **Bachelor of Science in Criminal Science**  
-*Concentration: Forensics and Technology*
+*Concentration: Forensics and Technology*  
 
 <div align="left">
-  
+
 ![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white)
 ![IBM Python for Data Science](https://img.shields.io/badge/IBM%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development-052FAD?style=flat-square&logoColor=white)
 
 </div>
+
 
 ---
 
