@@ -189,16 +189,7 @@ Fast-paced top-down space shooter featuring wave-based combat, persistent progre
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericmaddox&theme=github_dark" width="95%" alt="GitHub Profile Details" />
-</div>
-
-<div align="center">
-  <!-- The metrics image contains the languages, but here is the standalone card just in case -->
   <img src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericmaddox&layout=compact&theme=transparent" width="32%" alt="Top Languages" />
 </div>
 
 ---
