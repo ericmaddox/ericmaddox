@@ -115,8 +115,6 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas API">
-<img src="https://img.shields.io/badge/Responsive_Design-38B2AC?style=flat-square&logoColor=white" alt="Responsive Design">
-<img src="https://img.shields.io/badge/Modern_UI/UX-FF69B4?style=flat-square&logoColor=white" alt="UI/UX">
 </p>
 </details>
 
