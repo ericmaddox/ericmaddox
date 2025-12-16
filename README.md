@@ -130,7 +130,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
   <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="80%" alt="NeurOllama AI"/>
 </a>
 
-AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
+AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Maintains conversation history, adapts responses based on user emotional state, and features customizable voice output using Llama 3.2.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -147,7 +147,7 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
   <img src="https://github.com/ericmaddox/crime-analyst-ai/blob/main/media/crime_analyst_ai.JPEG?raw=true" width="80%" alt="Crime Analyst AI"/>
 </a>
 
-Enterprise **crime data analysis** platform using ML to identify patterns and predict trends for proactive prevention.
+Enterprise **crime data analysis** platform leveraging Llama 3.2 to identify patterns, predict trends, and visualize insights on interactive Folium maps. Validates predictions against historical data for proactive law enforcement.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -167,7 +167,7 @@ Enterprise **crime data analysis** platform using ML to identify patterns and pr
   <img src="https://github.com/ericmaddox/mars-nexus-wrapper/blob/main/media/Mars_nexus_wrapper_logo2.PNG?raw=true" width="80%" alt="Mars Nexus Wrapper"/>
 </a>
 
-API wrapper for Mars data integration and exploration tools.
+Python wrapper for **NASA's Mars APIs** providing access to weather data, Curiosity/Perseverance rover images, and orbital information. Simplifies integration for space exploration applications.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -184,7 +184,7 @@ API wrapper for Mars data integration and exploration tools.
   <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="80%" alt="HTML Dungeon Crawl"/>
 </a>
 
-Browser-based dungeon crawler game with procedural generation and combat mechanics.
+**Procedurally generated** dungeon crawler using HTML5 Canvas. Features turn-based combat, randomized maze generation, fog of war, potion inventory, and dynamic difficulty scaling. Zero external dependencies.
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -203,7 +203,7 @@ Browser-based dungeon crawler game with procedural generation and combat mechani
   <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
 </a>
 
-Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encoding workflows for developers.
+Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interface for seamless encoding workflows. Ideal for embedding images in HTML, CSS, or JSON.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
@@ -220,7 +220,7 @@ Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encodi
   <img src="https://github.com/ericmaddox/orbital-void/blob/main/media/screenshot1.png?raw=true" width="80%" alt="Orbital Void"/>
 </a>
 
-Fast-paced **space shooter** with wave combat, progression systems, and real-time physics. Vanilla JS showcase.
+Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, and persistent progression. Features real-time physics, particle effects, and responsive controls. Pure vanilla JavaScript.
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -235,7 +235,7 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 
 ### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
 
-Tool for converting markdown documentation into structured datasets for AI training.
+Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
