@@ -196,9 +196,9 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
 
 <p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
-<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square">
-<img src="https://img.shields.io/badge/TTS-FF6B6B?style=flat-square">
+<img src="https://img.shields.io/badge/TextBlob-FF6347?style=flat-square">
 </p>
 
 </td>
@@ -214,8 +214,9 @@ Enterprise **crime data analysis** platform using ML to identify patterns and pr
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square">
-<img src="https://img.shields.io/badge/Analytics-4285F4?style=flat-square">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
 </td>
@@ -233,8 +234,8 @@ API wrapper for Mars data integration and exploration tools.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/API-009688?style=flat-square">
-<img src="https://img.shields.io/badge/Wrapper-FF5722?style=flat-square">
+<img src="https://img.shields.io/badge/NASA_API-E03C31?style=flat-square&logo=nasa&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-FF6C37?style=flat-square">
 </p>
 
 </td>
@@ -249,9 +250,9 @@ API wrapper for Mars data integration and exploration tools.
 Browser-based dungeon crawler game with procedural generation and combat mechanics.
 
 <p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Game_Dev-9C27B0?style=flat-square">
+<img src="https://img.shields.io/badge/Canvas_API-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Roguelite-9C27B0?style=flat-square">
 </p>
 
 </td>
@@ -301,8 +302,8 @@ Tool for converting markdown documentation into structured datasets for AI train
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/AI_Training-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
 </p>
 
 </td>
