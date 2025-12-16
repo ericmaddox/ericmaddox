@@ -10,11 +10,11 @@
 
 <!-- Quick Navigation -->
 <p>
-<a href="#-about">About</a> •
-<a href="#️-technology-stack">Tech Stack</a> •
-<a href="#-featured-projects">Projects</a> •
-<a href="#-github-analytics">Analytics</a> •
-<a href="#-connect">Connect</a>
+<a href="#about">About</a> •
+<a href="#technology-stack">Tech Stack</a> •
+<a href="#featured-projects">Projects</a> •
+<a href="#github-analytics">Analytics</a> •
+<a href="#connect">Connect</a>
 </p>
 
 <!-- Social Badges -->
@@ -27,7 +27,7 @@
 
 ---
 
-## 👨🏻‍💻 About
+## About
 
 <table>
 <tr>
@@ -38,10 +38,10 @@
 Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now architect and deploy **Real-Time Crime Center (RTCC)** platforms at **Axon**: cloud-based ecosystems that aggregate live video, sensor data, and intelligence feeds for unified situational awareness.
 
 **What I Bring:**
-- 🎯 Operational field experience informing technical solutions
-- 🏗️ End-to-end program delivery for public safety agencies
-- 🤖 Hands-on AI/ML integration and Python development
-- 📊 Data-driven decision systems that collapse response times
+- Operational field experience informing technical solutions
+- End-to-end program delivery for public safety agencies
+- Hands-on AI/ML integration and Python development
+- Data-driven decision systems that collapse response times
 
 </td>
 <td width="40%" align="center">
@@ -56,10 +56,10 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <details open>
-<summary><b>🐍 Languages & Core</b></summary>
+<summary><b>Languages & Core</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,bash&theme=dark" alt="Languages" />
@@ -67,7 +67,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 </details>
 
 <details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
+<summary><b>AI & Machine Learning</b></summary>
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
@@ -80,7 +80,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 </details>
 
 <details>
-<summary><b>🧰 Frameworks & Libraries</b></summary>
+<summary><b>Frameworks & Libraries</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium&theme=dark" alt="Frameworks" />
@@ -92,7 +92,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 </details>
 
 <details>
-<summary><b>☁️ Infrastructure & DevOps</b></summary>
+<summary><b>Infrastructure & DevOps</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,redis,nginx,linux&theme=dark" alt="Infrastructure" />
@@ -100,7 +100,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 </details>
 
 <details>
-<summary><b>🔧 Developer Tools</b></summary>
+<summary><b>Developer Tools</b></summary>
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" alt="Tools" />
@@ -109,7 +109,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 
 ---
 
-## 🎓 Credentials
+## Credentials
 
 <p align="center">
 
@@ -124,13 +124,13 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
+### [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
 
 AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
 
@@ -143,7 +143,7 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
 </td>
 <td width="50%">
 
-### 🔍 [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
+### [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
 
 Enterprise **crime data analysis** platform using ML to identify patterns and predict trends for proactive prevention.
 
@@ -158,7 +158,7 @@ Enterprise **crime data analysis** platform using ML to identify patterns and pr
 <tr>
 <td width="50%">
 
-### 🖼️ [VisualBase64](https://github.com/ericmaddox/visualbase64)
+### [VisualBase64](https://github.com/ericmaddox/visualbase64)
 
 Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encoding workflows for developers.
 
@@ -171,7 +171,7 @@ Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encodi
 </td>
 <td width="50%">
 
-### 🎮 [Orbital Void](https://github.com/ericmaddox/orbital-void)
+### [Orbital Void](https://github.com/ericmaddox/orbital-void)
 
 Fast-paced **space shooter** with wave combat, progression systems, and real-time physics. Vanilla JS showcase.
 
@@ -191,7 +191,7 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="github-metrics.svg" alt="GitHub Metrics" />
@@ -199,7 +199,7 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 
 ---
 
-## 📬 Connect
+## Connect
 
 <div align="center">
 
@@ -215,5 +215,5 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 ---
 
 <div align="center">
-<sub>⚡ Powered by caffeine, curiosity, and continuous passion for innovation.</sub>
+<sub>Powered by caffeine, curiosity, and continuous passion for innovation.</sub>
 </div>
