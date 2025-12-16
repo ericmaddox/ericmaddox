@@ -190,7 +190,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ### [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
 
 <a href="https://github.com/ericmaddox/neurollama-ai">
-  <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="100%" alt="NeurOllama AI"/>
+  <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="80%" alt="NeurOllama AI"/>
 </a>
 
 AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
@@ -207,7 +207,7 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
 ### [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
 
 <a href="https://github.com/ericmaddox/crime-analyst-ai">
-  <img src="https://github.com/ericmaddox/crime-analyst-ai/blob/main/media/crime_analyst_ai.JPEG?raw=true" width="100%" alt="Crime Analyst AI"/>
+  <img src="https://github.com/ericmaddox/crime-analyst-ai/blob/main/media/crime_analyst_ai.JPEG?raw=true" width="80%" alt="Crime Analyst AI"/>
 </a>
 
 Enterprise **crime data analysis** platform using ML to identify patterns and predict trends for proactive prevention.
@@ -226,7 +226,7 @@ Enterprise **crime data analysis** platform using ML to identify patterns and pr
 ### [Mars Nexus Wrapper](https://github.com/ericmaddox/mars-nexus-wrapper)
 
 <a href="https://github.com/ericmaddox/mars-nexus-wrapper">
-  <img src="https://github.com/ericmaddox/mars-nexus-wrapper/blob/main/media/Mars_nexus_wrapper_logo2.PNG?raw=true" width="100%" alt="Mars Nexus Wrapper"/>
+  <img src="https://github.com/ericmaddox/mars-nexus-wrapper/blob/main/media/Mars_nexus_wrapper_logo2.PNG?raw=true" width="80%" alt="Mars Nexus Wrapper"/>
 </a>
 
 API wrapper for Mars data integration and exploration tools.
@@ -243,7 +243,7 @@ API wrapper for Mars data integration and exploration tools.
 ### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
 
 <a href="https://github.com/ericmaddox/html-dungeon-crawl">
-  <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="100%" alt="HTML Dungeon Crawl"/>
+  <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="80%" alt="HTML Dungeon Crawl"/>
 </a>
 
 Browser-based dungeon crawler game with procedural generation and combat mechanics.
@@ -262,7 +262,7 @@ Browser-based dungeon crawler game with procedural generation and combat mechani
 ### [VisualBase64](https://github.com/ericmaddox/visualbase64)
 
 <a href="https://github.com/ericmaddox/visualbase64">
-  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="100%" alt="VisualBase64"/>
+  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
 </a>
 
 Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encoding workflows for developers.
@@ -279,7 +279,7 @@ Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encodi
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
 
 <a href="https://github.com/ericmaddox/orbital-void">
-  <img src="https://github.com/ericmaddox/orbital-void/blob/main/media/screenshot1.png?raw=true" width="100%" alt="Orbital Void"/>
+  <img src="https://github.com/ericmaddox/orbital-void/blob/main/media/screenshot1.png?raw=true" width="80%" alt="Orbital Void"/>
 </a>
 
 Fast-paced **space shooter** with wave combat, progression systems, and real-time physics. Vanilla JS showcase.
