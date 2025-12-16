@@ -35,7 +35,7 @@
 
 **13+ years** bridging law enforcement operations and enterprise technology.
 
-Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now architect and deploy **Real-Time Crime Center (RTCC)** platforms at **Axon** — cloud-based ecosystems that aggregate live video, sensor data, and intelligence feeds for unified situational awareness.
+Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now architect and deploy **Real-Time Crime Center (RTCC)** platforms at **Axon**: cloud-based ecosystems that aggregate live video, sensor data, and intelligence feeds for unified situational awareness.
 
 **What I Bring:**
 - 🎯 Operational field experience informing technical solutions
@@ -113,7 +113,7 @@ Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now archit
 
 <p align="center">
 
-**Bachelor of Science in Criminal Justice** — *Concentration: Forensics & Technology*
+**Bachelor of Science in Criminal Justice** | *Concentration: Forensics & Technology*
 
 </p>
 
