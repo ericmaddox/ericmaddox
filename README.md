@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%"/>
+---
 
 ## About
 
@@ -54,7 +54,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
 ## Technology Stack
 
@@ -317,7 +317,7 @@ Tool for converting markdown documentation into structured datasets for AI train
 <a href="https://github.com/ericmaddox?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
 ## GitHub Analytics
 
@@ -333,7 +333,7 @@ Tool for converting markdown documentation into structured datasets for AI train
   </picture>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%"/>
+---
 
 ## Connect
 
@@ -348,7 +348,7 @@ Tool for converting markdown documentation into structured datasets for AI train
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+---
 
 <div align="center">
 <sub>Powered by caffeine, curiosity, and continuous passion for innovation.</sub>
