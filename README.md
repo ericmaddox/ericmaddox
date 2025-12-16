@@ -33,15 +33,15 @@
 <tr>
 <td width="60%">
 
-**13+ years** bridging law enforcement operations and enterprise technology.
+With **13 years** of specialized experience in law enforcement (SWAT & K9 operations) and deep expertise in technology implementation, I architect and deliver enterprise-grade **Real-Time Crime Center (RTCC)** solutions for public and private sector organizations. My unique perspective combines operational field experience with technical program management, enabling me to build solutions that solve real-world challenges.
 
-Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now architect and deploy **Real-Time Crime Center (RTCC)** platforms at **Axon**: cloud-based ecosystems that aggregate live video, sensor data, and intelligence feeds for unified situational awareness.
+As a **Senior Technical Program Manager at Axon**, I lead the implementation and deployment of **Fusus RTCC platforms**: cloud-based ecosystems that aggregate live video, data, and sensor feeds from diverse sources to provide unified situational awareness for law enforcement and enterprise security.
 
-**What I Bring:**
-- Operational field experience informing technical solutions
-- End-to-end program delivery for public safety agencies
+**Core Focus Areas:**
+- Orchestrating complex technical integrations across diverse systems
+- Managing cross-functional teams for scalable solution delivery
+- Collapsing response times through data-driven decision systems
 - Hands-on AI/ML integration and Python development
-- Data-driven decision systems that collapse response times
 
 </td>
 <td width="40%" align="center">
