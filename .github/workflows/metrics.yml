@@ -38,5 +38,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          # Plugin: Achievements (disabled - requires additional token permissions)
-          plugin_achievements: no
+          # Plugin: Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
