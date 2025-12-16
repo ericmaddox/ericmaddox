@@ -60,12 +60,12 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 **Languages & Core**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,html,css,bash&theme=dark" />
 </p>
 
 **AI & Machine Learning**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 </p>
 
 **Frameworks & Libraries**
@@ -85,7 +85,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 **Developer Tools**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman,anaconda&theme=dark" />
 </p>
 
 ---
