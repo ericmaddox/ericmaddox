@@ -70,12 +70,8 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <summary><b>AI & Machine Learning</b></summary>
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML Frameworks" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,huggingface,scikitlearn&theme=dark" alt="AI Tools" />
 </p>
 </details>
 
@@ -84,10 +80,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium&theme=dark" alt="Frameworks" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit,pandas,numpy&theme=dark" alt="Libraries" />
 </p>
 </details>
 
