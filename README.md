@@ -147,13 +147,13 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
   <img src="https://github.com/ericmaddox/crime-analyst-ai/blob/main/media/crime_analyst_ai.JPEG?raw=true" width="80%" alt="Crime Analyst AI"/>
 </a>
 
-Enterprise **crime data analysis** platform leveraging Llama 3.2 to identify patterns, predict trends, and visualize insights on interactive Folium maps. Validates predictions against historical data for proactive law enforcement.
+Enterprise **crime data analysis** platform with dark-themed web UI. Uses Ministral-3:3b for AI-powered predictions, interactive heatmaps, and risk-coded markers on Folium maps.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white">
 <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 </p>
 
 </td>
