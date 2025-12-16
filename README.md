@@ -205,7 +205,7 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 
 <p>Open to collaborations on <b>AI/ML projects</b>, <b>public safety tech</b>, and <b>innovative solutions</b>.</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric.maddox@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
 [![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
@@ -215,5 +215,5 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 ---
 
 <div align="center">
-<sub>⚡ Powered by caffeine, curiosity, and continuous integration</sub>
+<sub>⚡ Powered by caffeine, curiosity, and continuous passion for innovation.</sub>
 </div>
