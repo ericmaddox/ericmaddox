@@ -59,6 +59,14 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ## Technology Stack
 
 <details open>
+<summary><b>Languages & Core</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,bash&theme=dark" alt="Languages" />
+</p>
+</details>
+
+<details open>
 <summary><b>AI & Machine Learning</b></summary>
 <br>
 <p align="center">
