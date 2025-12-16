@@ -158,7 +158,9 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" alt="Tools" />
 </p>
 <p align="center">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
+<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity">
 </p>
 </details>
 
