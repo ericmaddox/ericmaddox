@@ -189,6 +189,10 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 ### [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
 
+<a href="https://github.com/ericmaddox/neurollama-ai">
+  <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="100%" alt="NeurOllama AI"/>
+</a>
+
 AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
 
 <p align="center">
@@ -201,6 +205,10 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
 <td width="50%">
 
 ### [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
+
+<a href="https://github.com/ericmaddox/crime-analyst-ai">
+  <img src="https://github.com/ericmaddox/crime-analyst-ai/blob/main/media/crime_analyst_ai.JPEG?raw=true" width="100%" alt="Crime Analyst AI"/>
+</a>
 
 Enterprise **crime data analysis** platform using ML to identify patterns and predict trends for proactive prevention.
 
@@ -215,7 +223,47 @@ Enterprise **crime data analysis** platform using ML to identify patterns and pr
 <tr>
 <td width="50%">
 
+### [Mars Nexus Wrapper](https://github.com/ericmaddox/mars-nexus-wrapper)
+
+<a href="https://github.com/ericmaddox/mars-nexus-wrapper">
+  <img src="https://github.com/ericmaddox/mars-nexus-wrapper/blob/main/media/Mars_nexus_wrapper_logo2.PNG?raw=true" width="100%" alt="Mars Nexus Wrapper"/>
+</a>
+
+API wrapper for Mars data integration and exploration tools.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/API-009688?style=flat-square">
+<img src="https://img.shields.io/badge/Wrapper-FF5722?style=flat-square">
+</p>
+
+</td>
+<td width="50%">
+
+### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
+
+<a href="https://github.com/ericmaddox/html-dungeon-crawl">
+  <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="100%" alt="HTML Dungeon Crawl"/>
+</a>
+
+Browser-based dungeon crawler game with procedural generation and combat mechanics.
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Game_Dev-9C27B0?style=flat-square">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [VisualBase64](https://github.com/ericmaddox/visualbase64)
+
+<a href="https://github.com/ericmaddox/visualbase64">
+  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="100%" alt="VisualBase64"/>
+</a>
 
 Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encoding workflows for developers.
 
@@ -230,6 +278,10 @@ Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encodi
 
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
 
+<a href="https://github.com/ericmaddox/orbital-void">
+  <img src="https://github.com/ericmaddox/orbital-void/blob/main/media/screenshot1.png?raw=true" width="100%" alt="Orbital Void"/>
+</a>
+
 Fast-paced **space shooter** with wave combat, progression systems, and real-time physics. Vanilla JS showcase.
 
 <p align="center">
@@ -237,6 +289,24 @@ Fast-paced **space shooter** with wave combat, progression systems, and real-tim
 <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square">
 <img src="https://img.shields.io/badge/Physics-9C27B0?style=flat-square">
 </p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
+
+Tool for converting markdown documentation into structured datasets for AI training.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/AI_Training-FF6F00?style=flat-square">
+</p>
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
