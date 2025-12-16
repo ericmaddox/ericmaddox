@@ -1,139 +1,124 @@
 <div align="center">
-  
-# Eric Maddox
 
-### Senior Technical Program Manager | Python Developer | Technology Leader
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Eric+Maddox;Senior+Technical+Program+Manager+%7C+AI+Innovator" alt="Typing SVG" /></a>
 
-*Bridging Public Safety and Technology Innovation*
+<!-- Tagline -->
+<p><em>Bridging Public Safety and Technology Innovation</em></p>
 
+<!-- Quick Navigation -->
+<p>
+<a href="#-about">About</a> •
+<a href="#️-technology-stack">Tech Stack</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#-github-analytics">Analytics</a> •
+<a href="#-connect">Connect</a>
+</p>
+
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
-[![AI Alchemist](https://img.shields.io/badge/AI%20Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
+[![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
+[![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/ericmaddox)
 
-<div align="center">
-  <a href="https://app.daily.dev/ericmaddox">
-    <img src="https://api.daily.dev/devcards/v2/Qns2XVTcg8qhZtLfzvE9M.png?type=wide&r=2xm" width="450" alt="Eric Maddox's Dev Card"/>
-  </a>
 </div>
-
 
 ---
 
 ## 👨🏻‍💻 About
 
-With 13 years of specialized experience in law enforcement (SWAT & K9 operations) and deep expertise in technology implementation, I architect and deliver enterprise-grade **Real-Time Crime Center (RTCC)** solutions for public and private sector organizations. My unique perspective combines operational field experience with technical program management, enabling me to build solutions that solve real-world challenges.
-
-As a Senior Technical Program Manager at Axon, I lead the implementation and deployment of Fusus Real-Time Crime Center (RTCC) platforms—cloud-based ecosystems that aggregate live video, data, and sensor feeds from diverse sources to provide unified situational awareness for law enforcement and enterprise security. My work focuses on orchestrating complex technical integrations, managing cross-functional teams, and delivering scalable solutions that collapse response times and enable data-driven decision-making for public safety agencies nationwide.
-
-**Core Competencies:** Technical Program Management • Python Development • SaaS Architecture • AI/ML Integration • Public Safety Technology • Cross-Functional Leadership
-
----
-
-## 🛠️ Technology Stack
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="60%">
 
-### Development & Tools
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**13+ years** bridging law enforcement operations and enterprise technology.
 
-</div>
+Former **SWAT & K9 Operator** turned **Technical Program Manager**, I now architect and deploy **Real-Time Crime Center (RTCC)** platforms at **Axon** — cloud-based ecosystems that aggregate live video, sensor data, and intelligence feeds for unified situational awareness.
+
+**What I Bring:**
+- 🎯 Operational field experience informing technical solutions
+- 🏗️ End-to-end program delivery for public safety agencies
+- 🤖 Hands-on AI/ML integration and Python development
+- 📊 Data-driven decision systems that collapse response times
+
 </td>
-<td valign="top" width="50%">
+<td width="40%" align="center">
 
-### AI & Data Science
-<div align="center">
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini">
-<img src="https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=black" alt="Ollama">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square&logoColor=white" alt="LoRA">
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=python&logoColor=black" alt="Transformers">
-<img src="https://img.shields.io/badge/FAISS-2E77BB?style=flat-square&logo=python&logoColor=white" alt="FAISS">
-<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
-<img src="https://img.shields.io/badge/Tesseract-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Tesseract">
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/TextBlob-FF6347?style=flat-square&logo=python&logoColor=white" alt="TextBlob">
-</div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<a href="https://app.daily.dev/ericmaddox">
+  <img src="https://api.daily.dev/devcards/v2/Qns2XVTcg8qhZtLfzvE9M.png?type=wide&r=2xm" width="350" alt="Eric Maddox's Dev Card"/>
+</a>
 
-### Python Ecosystem
-<div align="center">
-
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-3776AB?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-FF6C37?style=flat-square&logo=python&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white)
-![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logo=python&logoColor=white)
-![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black)
-
-</div>
-</td>
-<td valign="top" width="50%">
-
-### Infrastructure & DevOps
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-</div>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎓 Education & Certifications
+## 🛠️ Technology Stack
 
-**Bachelor of Science in Criminal Science**  
-*Concentration: Forensics and Technology*  
+<details open>
+<summary><b>🐍 Languages & Core</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,bash&theme=dark" alt="Languages" />
+</p>
+</details>
 
-<div align="left">
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+</p>
+</details>
 
-![Google Project Management](https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=flat-square&logo=google&logoColor=white)
-![IBM Python for Data Science](https://img.shields.io/badge/IBM%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development-052FAD?style=flat-square&logoColor=white)
+<details>
+<summary><b>🧰 Frameworks & Libraries</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,selenium&theme=dark" alt="Frameworks" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+</details>
 
-</div>
+<details>
+<summary><b>☁️ Infrastructure & DevOps</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,postgres,mongodb,redis,nginx,linux&theme=dark" alt="Infrastructure" />
+</p>
+</details>
 
+<details>
+<summary><b>🔧 Developer Tools</b></summary>
+<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" alt="Tools" />
+</p>
+</details>
+
+---
+
+## 🎓 Credentials
+
+<p align="center">
+
+**Bachelor of Science in Criminal Justice** — *Concentration: Forensics & Technology*
+
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM">
+<img src="https://img.shields.io/badge/IBM_Python_for_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python">
+</p>
 
 ---
 
@@ -143,46 +128,64 @@ As a Senior Technical Program Manager at Axon, I lead the implementation and dep
 <tr>
 <td width="50%">
 
-### [🤖 NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
-Interactive AI assistant with contextual memory, sentiment analysis, and text-to-speech capabilities. Maintains conversation continuity and adapts responses based on user emotional state using advanced natural language processing.
+### 🤖 [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
 
-**Tech:** Ollama 3.2, TextBlob, NLP, TTS
+AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Adapts responses based on user emotional state.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square">
+<img src="https://img.shields.io/badge/TTS-FF6B6B?style=flat-square">
+</p>
 
 </td>
 <td width="50%">
 
-### [🔍 Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
-Enterprise-grade crime data analysis platform leveraging machine learning to identify patterns and predict trends. Empowers law enforcement agencies with actionable intelligence for proactive crime prevention strategies.
+### 🔍 [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
 
-**Tech:** Python, ML, Data Analytics, Visualization
+Enterprise **crime data analysis** platform using ML to identify patterns and predict trends for proactive prevention.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square">
+<img src="https://img.shields.io/badge/Analytics-4285F4?style=flat-square">
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [🖼️ VisualBase64](https://github.com/ericmaddox/visualbase64)
-Lightweight utility tool for bidirectional image-to-base64 conversion with intuitive GUI. Streamlines encoding workflows for developers and content creators working with embedded images.
+### 🖼️ [VisualBase64](https://github.com/ericmaddox/visualbase64)
 
-**Tech:** Python, Tkinter, Image Processing
+Lightweight **image-to-base64** converter with intuitive GUI. Streamlines encoding workflows for developers.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
+<img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
+</p>
 
 </td>
 <td width="50%">
 
-### [🎮 Orbital Void](https://github.com/ericmaddox/orbital-void)
-Fast-paced top-down space shooter featuring wave-based combat, persistent progression systems, and real-time physics. Built with vanilla JavaScript and HTML5 Canvas, showcasing advanced game development patterns, particle systems, and performance optimization techniques.
+### 🎮 [Orbital Void](https://github.com/ericmaddox/orbital-void)
 
-**Tech:** JavaScript, HTML5 Canvas, Physics Engine, LocalStorage
+Fast-paced **space shooter** with wave combat, progression systems, and real-time physics. Vanilla JS showcase.
+
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square">
+<img src="https://img.shields.io/badge/Physics-9C27B0?style=flat-square">
+</p>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-  
-**[📂 View All Repositories →](https://github.com/ericmaddox?tab=repositories)**
-
-</div>
+<p align="center">
+<a href="https://github.com/ericmaddox?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"></a>
+</p>
 
 ---
 
@@ -194,8 +197,21 @@ Fast-paced top-down space shooter featuring wave-based combat, persistent progre
 
 ---
 
+## 📬 Connect
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=flat-square&color=0A66C2&label=Profile+Views)
+<p>Open to collaborations on <b>AI/ML projects</b>, <b>public safety tech</b>, and <b>innovative solutions</b>.</p>
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
+[![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Powered by caffeine, curiosity, and continuous integration</sub>
 </div>
