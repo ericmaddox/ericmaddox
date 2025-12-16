@@ -77,6 +77,8 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <p align="center">
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black">
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
 **Frameworks & Libraries**
