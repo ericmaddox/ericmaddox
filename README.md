@@ -71,7 +71,13 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML Frameworks" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,huggingface,scikitlearn&theme=dark" alt="AI Tools" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
 </p>
 </details>
 
@@ -80,7 +86,12 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <br>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,selenium&theme=dark" alt="Frameworks" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit,pandas,numpy&theme=dark" alt="Libraries" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 </details>
 
