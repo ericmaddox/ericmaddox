@@ -58,111 +58,35 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 ## Technology Stack
 
-<details open>
-<summary><b>Languages & Core</b></summary>
-<br>
+**Languages & Core**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,html,css,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,bash&theme=dark" />
 </p>
-</details>
 
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-<br>
+**AI & Machine Learning**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML Frameworks" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers">
-<img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square&logoColor=white" alt="LoRA">
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLOv8">
-<img src="https://img.shields.io/badge/Tesseract-1A73E8?style=flat-square&logo=google&logoColor=white" alt="Tesseract">
-<img src="https://img.shields.io/badge/TextBlob-FF6347?style=flat-square&logoColor=white" alt="TextBlob">
-</p>
-</details>
 
-<details open>
-<summary><b>Python Ecosystem</b></summary>
-<br>
+**Frameworks & Libraries**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,selenium&theme=dark" alt="Frameworks" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,selenium&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" alt="Matplotlib">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=flat-square&logo=python&logoColor=white" alt="Beautiful Soup">
-<img src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white" alt="aiohttp">
-<img src="https://img.shields.io/badge/Requests-FF6C37?style=flat-square&logoColor=white" alt="Requests">
-<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logoColor=white" alt="Folium">
-<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logoColor=white" alt="Tkinter">
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
-<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=black" alt="dotenv">
-</p>
-</details>
 
-<details>
-<summary><b>Frontend</b></summary>
-<br>
+**Databases**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=javascript,html,css,react,vue&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square&logo=html5&logoColor=white" alt="Canvas API">
-</p>
-</details>
 
-<details>
-<summary><b>Databases</b></summary>
-<br>
+**Infrastructure & DevOps**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,linux,githubactions&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/FAISS-2E77BB?style=flat-square&logoColor=white" alt="FAISS">
-</p>
-</details>
 
-<details>
-<summary><b>Infrastructure & DevOps</b></summary>
-<br>
+**Developer Tools**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,linux&theme=dark" alt="Infrastructure" />
+<img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" />
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-<img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black" alt="Homebrew">
-<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
-<img src="https://img.shields.io/badge/API_Design-009688?style=flat-square&logoColor=white" alt="API Design">
-</p>
-</details>
-
-<details>
-<summary><b>Developer Tools</b></summary>
-<br>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman&theme=dark" alt="Tools" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor">
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity">
-</p>
-</details>
 
 ---
 
