@@ -247,6 +247,20 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 </td>
 <td width="50%">
 
+### [NPX Business Card](https://github.com/ericmaddox/npx-card)
+
+<a href="https://github.com/ericmaddox/npx-card">
+  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_card.jpg?raw=true" width="80%" alt="NPX Business Card"/>
+</a>
+
+Cyberpunk-themed **digital business card** executable via terminal. Features neon ASCII art, interactive menu, and direct links to socials.
+
+<p align="center">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
 </td>
 </tr>
 </table>
