@@ -56,7 +56,9 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <a href="https://app.daily.dev/ericmaddox">
   <img src="https://api.daily.dev/devcards/v2/Qns2XVTcg8qhZtLfzvE9M.png?type=wide&r=2xm" width="350" alt="Eric Maddox's Dev Card"/>
 </a>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
