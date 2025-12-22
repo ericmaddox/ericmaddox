@@ -295,9 +295,9 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric.maddox@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
+[![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aialchemist.hashnode.dev/)
-[![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 
 </div>
 
