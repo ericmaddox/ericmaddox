@@ -193,6 +193,25 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 </td>
 <td width="50%">
 
+### [NPX Business Card](https://github.com/ericmaddox/npx-card)
+
+<a href="https://github.com/ericmaddox/npx-card">
+  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv2.png?raw=true" width="80%" alt="NPX Business Card"/>
+</a>
+
+Cyberpunk-themed **digital business card** executable via terminal. Features neon ASCII art, interactive menu, and direct links to socials.
+
+<p align="center">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
 
 <a href="https://github.com/ericmaddox/html-dungeon-crawl">
@@ -208,8 +227,6 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [VisualBase64](https://github.com/ericmaddox/visualbase64)
@@ -227,6 +244,8 @@ Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interf
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
@@ -244,8 +263,6 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
@@ -256,23 +273,6 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
-</p>
-
-</td>
-<td width="50%">
-
-### [NPX Business Card](https://github.com/ericmaddox/npx-card)
-
-<a href="https://github.com/ericmaddox/npx-card">
-  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv2.png?raw=true" width="80%" alt="NPX Business Card"/>
-</a>
-
-Cyberpunk-themed **digital business card** executable via terminal. Features neon ASCII art, interactive menu, and direct links to socials.
-
-<p align="center">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
 </td>
