@@ -82,6 +82,15 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
+**Data Science & Visualization**
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white">
+<img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logo=python&logoColor=white">
+</p>
+
 **Frameworks & Libraries**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,selenium&theme=dark" />
