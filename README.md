@@ -196,7 +196,7 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 ### [NPX Business Card](https://github.com/ericmaddox/npx-card)
 
 <a href="https://github.com/ericmaddox/npx-card">
-  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv2.png?raw=true" width="80%" alt="NPX Business Card"/>
+  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv3_card_image.png?raw=true" width="80%" alt="NPX Business Card"/>
 </a>
 
 Cyberpunk-themed **digital business card** executable via terminal. Features neon ASCII art, interactive menu, and direct links to socials.
