@@ -128,7 +128,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 <p align="center">
 <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM">
-<img src="https://img.shields.io/badge/IBM_Python_for_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python">
+<img src="https://img.shields.io/badge/IBM_Python_for_Data_Science,_AI_%26_Development-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python, AI & Development">
 </p>
 
 ---
