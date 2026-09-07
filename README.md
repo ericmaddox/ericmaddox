@@ -75,30 +75,33 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white">
 </p>
 <p align="center">
+<img src="https://img.shields.io/badge/MCP-purple?style=flat-square">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black">
-<img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white">
 </p>
 
-**Data Science & Visualization**
+**Data Science & Geospatial**
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white">
+<img src="https://img.shields.io/badge/MapLibre_GL-000000?style=flat-square&logo=maplibre&logoColor=white">
 <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white">
+<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white">
 <img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square&logo=python&logoColor=white">
 </p>
 
 **Frameworks & Libraries**
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,vue,selenium&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,vite,tailwind,electron&theme=dark" />
 </p>
 
 **Databases**
@@ -111,9 +114,14 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,nginx,linux,githubactions&theme=dark" />
 </p>
 
-**Developer Tools**
+**Developer Tools & QA**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,vim,git,github,postman,anaconda&theme=dark" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Ruff-261230?style=flat-square&logo=ruff&logoColor=D7FF64">
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white">
 </p>
 
 ---
@@ -176,6 +184,35 @@ Enterprise **crime data analysis** platform with dark-themed web UI. Uses Minist
 <tr>
 <td width="50%">
 
+### [Agent JMAP MCP](https://github.com/ericmaddox/agent-jmap-mcp)
+
+Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=flat-square&logo=pypi&logoColor=white">
+<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
+</p>
+
+</td>
+<td width="50%">
+
+### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
+
+Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [Mars Nexus Wrapper](https://github.com/ericmaddox/mars-nexus-wrapper)
 
 <a href="https://github.com/ericmaddox/mars-nexus-wrapper">
@@ -229,25 +266,6 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 </td>
 <td width="50%">
 
-### [VisualBase64](https://github.com/ericmaddox/visualbase64)
-
-<a href="https://github.com/ericmaddox/visualbase64">
-  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
-</a>
-
-Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interface for seamless encoding workflows. Ideal for embedding images in HTML, CSS, or JSON.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
-<img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
 
 <a href="https://github.com/ericmaddox/orbital-void">
@@ -263,18 +281,26 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
+### [VisualBase64](https://github.com/ericmaddox/visualbase64)
 
-Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
+<a href="https://github.com/ericmaddox/visualbase64">
+  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
+</a>
+
+Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interface for seamless encoding workflows. Ideal for embedding images in HTML, CSS, or JSON.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
+<img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
 </p>
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
