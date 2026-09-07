@@ -21,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
+[![PyPI](https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/agent-jmap-mcp/)
 [![npx ericmaddox](https://img.shields.io/badge/npx-ericmaddox-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ericmaddox)
 [![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/ericmaddox)
 
@@ -191,7 +192,7 @@ Stateless, production-grade **JMAP client and MCP server** enabling AI agents (C
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
-<img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=flat-square&logo=pypi&logoColor=white">
+<a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
 <img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
 </p>
 
