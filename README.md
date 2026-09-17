@@ -37,10 +37,6 @@
 
 <br>
 
-<table>
-<tr>
-<td width="60%">
-
 With **13 years** of specialized experience in law enforcement (SWAT & K9 operations) and deep expertise in technology implementation, I architect and deliver enterprise-grade **Real-Time Crime Center (RTCC)** solutions for public and private sector organizations. My unique perspective combines operational field experience with technical program management, enabling me to build solutions that solve real-world challenges.
 
 As a **Senior Technical Program Manager at Axon**, I lead the implementation and deployment of **Fusus RTCC platforms**: cloud-based ecosystems that aggregate live video, data, and sensor feeds from diverse sources to provide unified situational awareness for law enforcement and enterprise security.
@@ -50,16 +46,6 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 - Managing cross-functional teams for scalable solution delivery
 - Collapsing response times through data-driven decision systems
 - Hands-on AI/ML integration and Python development
-
-</td>
-<td width="40%" align="center">
-
-<a href="https://app.daily.dev/ericmaddox">
-  <img src="https://api.daily.dev/devcards/v2/Qns2XVTcg8qhZtLfzvE9M.png?type=wide&r=2xm" width="350" alt="Eric Maddox's Dev Card"/>
-</a>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -223,6 +209,24 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 <tr>
 <td width="50%">
 
+### [Calyx MCP](https://github.com/ericmaddox/calyx-mcp)
+
+<a href="https://github.com/ericmaddox/calyx-mcp">
+  <img src="https://github.com/ericmaddox/calyx-mcp/blob/main/assets/calyx_banner.jpg?raw=true" width="80%" alt="Calyx MCP"/>
+</a>
+
+Associative memory and code reflex engine for AI coding assistants and autonomous agents. Provides cognitive memory retrieval, reflex checks, outcome tracking, and state inspection via the Model Context Protocol.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
+</p>
+
+</td>
+<td width="50%">
+
 ### [Mars Nexus Wrapper](https://github.com/ericmaddox/mars-nexus-wrapper)
 
 <a href="https://github.com/ericmaddox/mars-nexus-wrapper">
@@ -238,6 +242,8 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [NPX Business Card](https://github.com/ericmaddox/npx-card)
@@ -255,8 +261,6 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
@@ -274,6 +278,8 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
@@ -291,8 +297,6 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [VisualBase64](https://github.com/ericmaddox/visualbase64)
@@ -309,8 +313,6 @@ Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interf
 <img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
 </p>
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
