@@ -12,6 +12,7 @@
 <p>
 <a href="#about">About</a> •
 <a href="#technology-stack">Tech Stack</a> •
+<a href="#pypi-packages">Packages</a> •
 <a href="#featured-projects">Projects</a> •
 <a href="#github-analytics">Analytics</a> •
 <a href="#connect">Connect</a>
@@ -21,7 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
-[![PyPI](https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/agent-jmap-mcp/)
 [![npx ericmaddox](https://img.shields.io/badge/npx-ericmaddox-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ericmaddox)
 [![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/ericmaddox)
 
@@ -138,6 +138,15 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <p align="center">
 <img src="https://img.shields.io/badge/Google_Project_Management-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google PM">
 <img src="https://img.shields.io/badge/IBM_Python_for_Data_Science,_AI_%26_Development-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Python, AI & Development">
+</p>
+
+---
+
+## PyPI Packages
+
+<p align="center">
+  <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
+  <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
 </p>
 
 ---
