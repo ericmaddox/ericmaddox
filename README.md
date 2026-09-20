@@ -197,6 +197,10 @@ Stateless, production-grade **JMAP client and MCP server** enabling AI agents (C
 
 ### [System 1 MCP](https://github.com/ericmaddox/system1-mcp)
 
+<a href="https://github.com/ericmaddox/system1-mcp">
+  <img src="https://github.com/ericmaddox/system1-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="System 1 MCP"/>
+</a>
+
 High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (MCP). Powered by TypeSafe's Jev model to deliver sub-second pre-execution safety checks (`fast_guard`), discrete option arbitration (`fast_judge`), and assertion verification (`fast_verify`).
 
 <p align="center">
