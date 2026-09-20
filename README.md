@@ -131,9 +131,9 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ## PyPI Packages
 
 <p align="center">
-  <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
-  <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
-  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
+  <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp_v1.0.8-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
+  <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp_v0.2.0-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
+  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp_v0.1.2-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
 </p>
 
 ---
