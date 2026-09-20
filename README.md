@@ -148,7 +148,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 ## Featured Projects
 
-### 🤖 Autonomous Agents & MCP Infrastructure
+### Autonomous Agents & MCP Infrastructure
 
 <table>
 <tr>
@@ -220,7 +220,7 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 </tr>
 </table>
 
-### 🛡️ Enterprise AI & Public Safety Intelligence
+### Enterprise AI & Public Safety Intelligence
 
 <table>
 <tr>
@@ -262,7 +262,7 @@ AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-s
 </tr>
 </table>
 
-### 🛠️ Developer Tools & APIs
+### Developer Tools & APIs
 
 <table>
 <tr>
@@ -303,7 +303,7 @@ Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interf
 </tr>
 </table>
 
-### 🎮 Creative Engineering & Interactive Web
+### Creative Engineering & Interactive Web
 
 <table>
 <tr>
@@ -344,7 +344,7 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </tr>
 </table>
 
-### 💻 Interactive Terminal Card
+### Interactive Terminal Card
 
 <div align="center">
 
