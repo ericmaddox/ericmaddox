@@ -133,6 +133,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <p align="center">
   <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
   <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
+  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
 </p>
 
 ---
@@ -194,6 +195,22 @@ Stateless, production-grade **JMAP client and MCP server** enabling AI agents (C
 </td>
 <td width="50%">
 
+### [System 1 MCP](https://github.com/ericmaddox/system1-mcp)
+
+High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (MCP). Powered by TypeSafe's Jev model to deliver sub-second pre-execution safety checks (`fast_guard`), discrete option arbitration (`fast_judge`), and assertion verification (`fast_verify`).
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.0.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/TypeSafe-000000?style=flat-square">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
 
 Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
@@ -205,8 +222,6 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Calyx MCP](https://github.com/ericmaddox/calyx-mcp)
@@ -225,6 +240,8 @@ Associative memory and code reflex engine for AI coding assistants and autonomou
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Mars Nexus Wrapper](https://github.com/ericmaddox/mars-nexus-wrapper)
@@ -242,8 +259,6 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [NPX Business Card](https://github.com/ericmaddox/npx-card)
@@ -261,6 +276,8 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
@@ -278,8 +295,6 @@ Cyberpunk-themed **digital business card** executable via terminal. Features neo
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
@@ -297,6 +312,8 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [VisualBase64](https://github.com/ericmaddox/visualbase64)
@@ -312,6 +329,9 @@ Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interf
 <img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
 <img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
 </p>
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
