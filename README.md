@@ -68,7 +68,9 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/MCP-purple?style=flat-square">
+<img src="https://img.shields.io/badge/Model_Context_Protocol-purple?style=flat-square">
+<img src="https://img.shields.io/badge/TypeSafe_AI-000000?style=flat-square">
+<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
@@ -131,34 +133,97 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ## PyPI Packages
 
 <p align="center">
+  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp_v0.1.2-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
   <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp_v1.0.8-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
   <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp_v0.2.0-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
-  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp_v0.1.2-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python_Support-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Support 3.10+">
+  <img src="https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-purple?style=flat-square" alt="MCP">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License MIT">
 </p>
 
 ---
 
 ## Featured Projects
 
+### 🤖 Autonomous Agents & MCP Infrastructure
+
 <table>
 <tr>
 <td width="50%">
 
-### [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
+### [System 1 MCP](https://github.com/ericmaddox/system1-mcp)
 
-<a href="https://github.com/ericmaddox/neurollama-ai">
-  <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="80%" alt="NeurOllama AI"/>
+<a href="https://github.com/ericmaddox/system1-mcp">
+  <img src="https://github.com/ericmaddox/system1-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="System 1 MCP"/>
 </a>
 
-AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Maintains conversation history, adapts responses based on user emotional state, and features customizable voice output using Llama 3.2.
+High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (MCP). Powered by TypeSafe's Jev model to deliver sub-second pre-execution safety checks (`fast_guard`), discrete option arbitration (`fast_judge`), and assertion verification (`fast_verify`).
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
-<img src="https://img.shields.io/badge/TextBlob-FF6347?style=flat-square">
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.0.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/TypeSafe-000000?style=flat-square">
 </p>
 
 </td>
+<td width="50%">
+
+### [Calyx MCP](https://github.com/ericmaddox/calyx-mcp)
+
+<a href="https://github.com/ericmaddox/calyx-mcp">
+  <img src="https://github.com/ericmaddox/calyx-mcp/blob/main/assets/calyx_banner.jpg?raw=true" width="80%" alt="Calyx MCP"/>
+</a>
+
+Associative memory and code reflex engine for AI coding assistants and autonomous agents. Provides cognitive memory retrieval, reflex checks, outcome tracking, and state inspection via the Model Context Protocol.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Agent JMAP MCP](https://github.com/ericmaddox/agent-jmap-mcp)
+
+Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
+</p>
+
+</td>
+<td width="50%">
+
+### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
+
+Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
+</p>
+
+</td>
+</tr>
+</table>
+
+### 🛡️ Enterprise AI & Public Safety Intelligence
+
+<table>
+<tr>
 <td width="50%">
 
 ### [Crime Analyst AI](https://github.com/ericmaddox/crime-analyst-ai)
@@ -177,74 +242,29 @@ Enterprise **crime data analysis** platform with dark-themed web UI. Uses Minist
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### [Agent JMAP MCP](https://github.com/ericmaddox/agent-jmap-mcp)
+### [NeurOllama AI](https://github.com/ericmaddox/neurollama-ai)
 
-Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
-<a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
-<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
-</p>
-
-</td>
-<td width="50%">
-
-### [System 1 MCP](https://github.com/ericmaddox/system1-mcp)
-
-<a href="https://github.com/ericmaddox/system1-mcp">
-  <img src="https://github.com/ericmaddox/system1-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="System 1 MCP"/>
+<a href="https://github.com/ericmaddox/neurollama-ai">
+  <img src="https://github.com/ericmaddox/neurollama-ai/blob/main/media/neurollama_ai.JPEG?raw=true" width="80%" alt="NeurOllama AI"/>
 </a>
 
-High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (MCP). Powered by TypeSafe's Jev model to deliver sub-second pre-execution safety checks (`fast_guard`), discrete option arbitration (`fast_judge`), and assertion verification (`fast_verify`).
+AI assistant with **contextual memory**, **sentiment analysis**, and **text-to-speech**. Maintains conversation history, adapts responses based on user emotional state, and features customizable voice output using Llama 3.2.
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MCP-1.0.0%2B-purple?style=flat-square">
-<a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
-<img src="https://img.shields.io/badge/TypeSafe-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/TextBlob-FF6347?style=flat-square">
 </p>
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
-### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
+### 🛠️ Developer Tools & APIs
 
-Python utility converting **Markdown documentation into JSON datasets** for LLM fine-tuning. Formatted for HuggingFace Datasets library with structured prompt/completion pairs.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
-</p>
-
-</td>
-<td width="50%">
-
-### [Calyx MCP](https://github.com/ericmaddox/calyx-mcp)
-
-<a href="https://github.com/ericmaddox/calyx-mcp">
-  <img src="https://github.com/ericmaddox/calyx-mcp/blob/main/assets/calyx_banner.jpg?raw=true" width="80%" alt="Calyx MCP"/>
-</a>
-
-Associative memory and code reflex engine for AI coding assistants and autonomous agents. Provides cognitive memory retrieval, reflex checks, outcome tracking, and state inspection via the Model Context Protocol.
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
-<a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
-<img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
-</p>
-
-</td>
-</tr>
+<table>
 <tr>
 <td width="50%">
 
@@ -265,40 +285,28 @@ Python wrapper for **NASA's Mars APIs** providing access to weather data, Curios
 </td>
 <td width="50%">
 
-### [NPX Business Card](https://github.com/ericmaddox/npx-card)
+### [VisualBase64](https://github.com/ericmaddox/visualbase64)
 
-<a href="https://github.com/ericmaddox/npx-card">
-  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv5.png?raw=true" width="80%" alt="NPX Business Card"/>
+<a href="https://github.com/ericmaddox/visualbase64">
+  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
 </a>
 
-Cyberpunk-themed **digital business card** executable via terminal. Features neon ASCII art, interactive menu, and direct links to socials.
+Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interface for seamless encoding workflows. Ideal for embedding images in HTML, CSS, or JSON.
 
 <p align="center">
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
+<img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
 </p>
 
 </td>
 </tr>
+</table>
+
+### 🎮 Creative Engineering & Interactive Web
+
+<table>
 <tr>
-<td width="50%">
-
-### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
-
-<a href="https://github.com/ericmaddox/html-dungeon-crawl">
-  <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="80%" alt="HTML Dungeon Crawl"/>
-</a>
-
-**Procedurally generated** dungeon crawler using HTML5 Canvas. Features turn-based combat, randomized maze generation, fog of war, potion inventory, and dynamic difficulty scaling. Zero external dependencies.
-
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Canvas_API-000000?style=flat-square">
-<img src="https://img.shields.io/badge/Roguelite-9C27B0?style=flat-square">
-</p>
-
-</td>
 <td width="50%">
 
 ### [Orbital Void](https://github.com/ericmaddox/orbital-void)
@@ -316,30 +324,48 @@ Fast-paced **top-down space shooter** with wave-based combat, upgrade systems, a
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
-### [VisualBase64](https://github.com/ericmaddox/visualbase64)
+### [HTML Dungeon Crawl](https://github.com/ericmaddox/html-dungeon-crawl)
 
-<a href="https://github.com/ericmaddox/visualbase64">
-  <img src="https://github.com/ericmaddox/visualbase64/blob/main/media/visual_base64_1.JPEG?raw=true" width="80%" alt="VisualBase64"/>
+<a href="https://github.com/ericmaddox/html-dungeon-crawl">
+  <img src="https://github.com/ericmaddox/html-dungeon-crawl/blob/main/media/html_dungeon_crawl_1.png?raw=true" width="80%" alt="HTML Dungeon Crawl"/>
 </a>
 
-Lightweight **image-to-base64** converter with Tkinter GUI. Drag-and-drop interface for seamless encoding workflows. Ideal for embedding images in HTML, CSS, or JSON.
+**Procedurally generated** dungeon crawler using HTML5 Canvas. Features turn-based combat, randomized maze generation, fog of war, potion inventory, and dynamic difficulty scaling. Zero external dependencies.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tkinter-0078D7?style=flat-square">
-<img src="https://img.shields.io/badge/Image_Processing-00C853?style=flat-square">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Canvas_API-000000?style=flat-square">
+<img src="https://img.shields.io/badge/Roguelite-9C27B0?style=flat-square">
 </p>
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
 </table>
+
+### 💻 Interactive Terminal Card
+
+<div align="center">
+
+Run directly in your terminal:
+```bash
+npx ericmaddox
+```
+
+<a href="https://github.com/ericmaddox/npx-card">
+  <img src="https://github.com/ericmaddox/npx-card/blob/main/assets/npx_cardv5.png?raw=true" width="65%" alt="NPX Business Card"/>
+</a>
+
+<p>Cyberpunk-themed <b>digital business card</b> featuring neon ASCII art, interactive system menu, and direct links to socials.</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+</div>
 
 <p align="center">
 <a href="https://github.com/ericmaddox?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"></a>
