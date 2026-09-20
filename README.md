@@ -119,7 +119,8 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 
 <p align="center">
 
-**Bachelor of Science in Criminal Science** | *Concentration: Forensics & Technology*
+**Bachelor of Science in Criminal Science** | *Concentration: Forensics & Technology*<br>
+**Kennesaw State University**
 
 </p>
 
