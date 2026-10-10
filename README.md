@@ -163,6 +163,7 @@ Extractive **token-compression model** for AI coding sessions. Learned line-leve
 <a href="https://huggingface.co/aialchemist-dev/compressor-reflex"><img src="https://img.shields.io/badge/Hugging_Face-compressor--reflex-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
 <img src="https://img.shields.io/badge/48.3%25_median_savings-00C853?style=flat-square" alt="48.3% median savings">
 <img src="https://img.shields.io/badge/ONNX_INT8_150MB-FF6F00?style=flat-square" alt="ONNX INT8">
+<a href="https://github.com/ericmaddox/compressor-reflex-mcp"><img src="https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://pypi.org/project/compressor-reflex-mcp/"><img src="https://img.shields.io/pypi/v/compressor-reflex-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
 </p>
 
