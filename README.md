@@ -3,16 +3,13 @@
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=48&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Eric+Maddox" alt="Typing SVG" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=Senior+Technical+Program+Manager+%E2%80%A2+Python+Developer+%E2%80%A2+AI%2FML+Specialist" alt="Title" />
-
-<!-- Tagline -->
-<p><em>Bridging Public Safety and Technology Innovation</em></p>
-
+<img src="https://readme-typing-svg.demolab.c
 <!-- Quick Navigation -->
 <p>
 <a href="#about">About</a> •
 <a href="#technology-stack">Tech Stack</a> •
 <a href="#pypi-packages">Packages</a> •
+<a href="#published-ml-models">Models</a> •
 <a href="#featured-projects">Projects</a> •
 <a href="#github-analytics">Analytics</a> •
 <a href="#connect">Connect</a>
@@ -22,10 +19,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aialchemist-dev)
 [![npx ericmaddox](https://img.shields.io/badge/npx-ericmaddox-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ericmaddox)
 [![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/ericmaddox)
-
-</div>
 
 ---
 
@@ -134,16 +130,54 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ## PyPI Packages
 
 <p align="center">
-  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/badge/PyPI-system1--mcp_v0.1.2-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - system1-mcp" /></a>
-  <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/badge/PyPI-calyx--mcp_v1.0.8-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - calyx-mcp" /></a>
-  <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/badge/PyPI-agent--jmap--mcp_v0.2.0-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI - agent-jmap-mcp" /></a>
+  <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=system1-mcp" alt="PyPI - system1-mcp" /></a>
+  <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=calyx-mcp" alt="PyPI - calyx-mcp" /></a>
+  <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=agent-jmap-mcp" alt="PyPI - agent-jmap-mcp" /></a>
+  <a href="https://pypi.org/project/compressor-reflex-mcp/"><img src="https://img.shields.io/pypi/v/compressor-reflex-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=compressor-reflex-mcp" alt="PyPI - compressor-reflex-mcp" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python_Support-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Support 3.10+">
+  <img src="https://img.shields.io/badge/Python_Support-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Support 3.11+">
   <img src="https://img.shields.io/badge/Protocol-Model_Context_Protocol_(MCP)-purple?style=flat-square" alt="MCP">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License MIT">
 </p>
+
+---
+
+## Published ML Models
+
+<table>
+<tr>
+<td width="50%">
+
+### [Compressor-Reflex](https://huggingface.co/aialchemist-dev/compressor-reflex)
+
+Extractive **token-compression model** for AI coding sessions. Learned line-level keep/drop decisions cut total session tokens by **48.3% median** (n=12 real sessions) with 100% must-keep retention. 150MB INT8 ONNX, fully local and fail-open, zero API calls.
+
+<p align="center">
+<a href="https://huggingface.co/aialchemist-dev/compressor-reflex"><img src="https://img.shields.io/badge/Hugging_Face-compressor--reflex-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+<img src="https://img.shields.io/badge/48.3%25_median_savings-00C853?style=flat-square" alt="48.3% median savings">
+<img src="https://img.shields.io/badge/ONNX_INT8_150MB-FF6F00?style=flat-square" alt="ONNX INT8">
+<a href="https://pypi.org/project/compressor-reflex-mcp/"><img src="https://img.shields.io/pypi/v/compressor-reflex-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+</p>
+
+</td>
+<td width="50%">
+
+### [Verdict Shell Safety](https://huggingface.co/aialchemist-dev/verdict-shell-safety)
+
+Fine-tuned **shell-command safety classifier** (151M ModernBERT). Pre-execution safety gate for AI agents: 46/46 dangerous commands blocked, 42/42 harmless passed, 143/143 held-out variants. Pure model, no hard-coded rules.
+
+<p align="center">
+<a href="https://huggingface.co/aialchemist-dev/verdict-shell-safety"><img src="https://img.shields.io/badge/Hugging_Face-verdict--shell--safety-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+<img src="https://img.shields.io/badge/104--gate_passed-00C853?style=flat-square" alt="104 gate passed">
+<img src="https://img.shields.io/badge/ModernBERT_151M-FF6F00?style=flat-square" alt="ModernBERT 151M">
+<a href="https://github.com/ericmaddox/verdict-shell-safety"><img src="https://img.shields.io/badge/GitHub-repo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -164,7 +198,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (MCP). Powered by TypeSafe's Jev model to deliver sub-second pre-execution safety checks (`fast_guard`), discrete option arbitration (`fast_judge`), and assertion verification (`fast_verify`).
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MCP-1.0.0%2B-purple?style=flat-square">
 <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
 <img src="https://img.shields.io/badge/TypeSafe-000000?style=flat-square">
@@ -182,7 +216,7 @@ High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (
 Associative memory and code reflex engine for AI coding assistants and autonomous agents. Provides cognitive memory retrieval, reflex checks, outcome tracking, and state inspection via the Model Context Protocol.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
 <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
 <img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
@@ -198,7 +232,7 @@ Associative memory and code reflex engine for AI coding assistants and autonomou
 Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
 <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
 <img src="https://img.shields.io/badge/FastMCP-5856D6?style=flat-square">
@@ -400,6 +434,7 @@ npx ericmaddox
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericmaddox270/)
 [![Portfolio](https://img.shields.io/badge/AI_Alchemist-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7)](https://aialchemist.dev/)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aialchemist-dev)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aialchemist.hashnode.dev/)
 
 </div>
@@ -409,3 +444,9 @@ npx ericmaddox
 <div align="center">
 <sub>Powered by caffeine, curiosity, and continuous passion for innovation.</sub>
 </div>
+
+</div>
+om?font=Montserrat&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=Senior+Technical+Program+Manager+%E2%80%A2+Python+Developer+%E2%80%A2+AI%2FML+Specialist" alt="Title" />
+
+<!-- Tagline -->
+<p><em>Bridging Public Safety and Technology Innovation</em></p>
