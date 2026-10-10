@@ -26,7 +26,7 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/madds)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/aialchemist-dev)
 [![npx ericmaddox](https://img.shields.io/badge/npx-ericmaddox-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/ericmaddox)
-[![Profile Views](https://komarev.com/ghpvc/?username=ericmaddox&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)](https://github.com/ericmaddox)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ericmaddox.ericmaddox)](https://github.com/ericmaddox)
 
 ---
 
