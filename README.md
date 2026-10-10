@@ -195,6 +195,24 @@ Fine-tuned **shell-command safety classifier** (151M ModernBERT). Pre-execution 
 <tr>
 <td width="50%">
 
+### [Compressor Reflex MCP](https://github.com/ericmaddox/compressor-reflex-mcp)
+
+<a href="https://github.com/ericmaddox/compressor-reflex-mcp">
+  <img src="https://github.com/ericmaddox/compressor-reflex-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="Compressor Reflex MCP"/>
+</a>
+
+Extractive **token-compression reflex engine** for AI coding sessions via MCP. Runs local INT8 ONNX models to make line-level keep/drop decisions, cutting session tokens by **48.3% median** with 100% must-keep retention.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/compressor-reflex-mcp/"><img src="https://img.shields.io/pypi/v/compressor-reflex-mcp.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<a href="https://huggingface.co/aialchemist-dev/compressor-reflex"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
+</p>
+
+</td>
+<td width="50%">
+
 ### [System 1 MCP](https://github.com/ericmaddox/system1-mcp)
 
 <a href="https://github.com/ericmaddox/system1-mcp">
@@ -211,6 +229,8 @@ High-speed **System 1 reflex engine** for AI agents via Model Context Protocol (
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Calyx MCP](https://github.com/ericmaddox/calyx-mcp)
@@ -229,11 +249,13 @@ Associative memory and code reflex engine for AI coding assistants and autonomou
 </p>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### [Agent JMAP MCP](https://github.com/ericmaddox/agent-jmap-mcp)
+
+<a href="https://github.com/ericmaddox/agent-jmap-mcp">
+  <img src="https://github.com/ericmaddox/agent-jmap-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="Agent JMAP MCP" onerror="this.style.display='none'"/>
+</a>
 
 Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
 
@@ -245,6 +267,8 @@ Stateless, production-grade **JMAP client and MCP server** enabling AI agents (C
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
@@ -257,6 +281,8 @@ Python utility converting **Markdown documentation into JSON datasets** for LLM 
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white">
 </p>
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
