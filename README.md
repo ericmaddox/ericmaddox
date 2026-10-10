@@ -253,10 +253,6 @@ Associative memory and code reflex engine for AI coding assistants and autonomou
 
 ### [Agent JMAP MCP](https://github.com/ericmaddox/agent-jmap-mcp)
 
-<a href="https://github.com/ericmaddox/agent-jmap-mcp">
-  <img src="https://github.com/ericmaddox/agent-jmap-mcp/blob/main/assets/banner.jpg?raw=true" width="80%" alt="Agent JMAP MCP" onerror="this.style.display='none'"/>
-</a>
-
 Stateless, production-grade **JMAP client and MCP server** enabling AI agents (Claude, GPT-4, Cursor) to manage mailboxes, navigate conversation threads, download attachments, and execute atomic email operations via RFC 8620/8621.
 
 <p align="center">
