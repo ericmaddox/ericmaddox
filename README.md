@@ -135,6 +135,7 @@ As a **Senior Technical Program Manager at Axon**, I lead the implementation and
 ## PyPI Packages
 
 <p align="center">
+  <a href="https://pypi.org/project/kaggle-free-gpu/"><img src="https://img.shields.io/pypi/v/kaggle-free-gpu.svg?style=for-the-badge&logo=pypi&logoColor=white&label=kaggle-free-gpu" alt="PyPI - kaggle-free-gpu" /></a>
   <a href="https://pypi.org/project/system1-mcp/"><img src="https://img.shields.io/pypi/v/system1-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=system1-mcp" alt="PyPI - system1-mcp" /></a>
   <a href="https://pypi.org/project/calyx-mcp/"><img src="https://img.shields.io/pypi/v/calyx-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=calyx-mcp" alt="PyPI - calyx-mcp" /></a>
   <a href="https://pypi.org/project/agent-jmap-mcp/"><img src="https://img.shields.io/pypi/v/agent-jmap-mcp.svg?style=for-the-badge&logo=pypi&logoColor=white&label=agent-jmap-mcp" alt="PyPI - agent-jmap-mcp" /></a>
@@ -265,6 +266,24 @@ Stateless, production-grade **JMAP client and MCP server** enabling AI agents (C
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### [Kaggle Free-GPU](https://github.com/ericmaddox/kaggle-free-gpu)
+
+<a href="https://github.com/ericmaddox/kaggle-free-gpu">
+  <img src="https://raw.githubusercontent.com/ericmaddox/kaggle-free-gpu/main/assets/hero.jpg" width="80%" alt="Kaggle Free-GPU"/>
+</a>
+
+Zero-cost **Tesla T4 x2 GPU execution** (30 GB VRAM) for autonomous coding agents (Claude Code, Cursor, Antigravity) via Kaggle's REST API. MCP server, CLI (`kfg`), and skill with pre-push validation and rolling quota tracking.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/MCP-1.3.0%2B-purple?style=flat-square">
+<a href="https://pypi.org/project/kaggle-free-gpu/"><img src="https://img.shields.io/pypi/v/kaggle-free-gpu.svg?style=flat-square&logo=pypi&logoColor=white&label=PyPI" alt="PyPI"></a>
+<img src="https://img.shields.io/badge/Tesla_T4_x2-30GB-success?style=flat-square">
+</p>
+
+</td>
 <td width="50%">
 
 ### [Markdown to AI Dataset](https://github.com/ericmaddox/markdown-to-ai-dataset)
