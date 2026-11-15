@@ -40,7 +40,7 @@
 
 With deep expertise in technology implementation and technical program management, I architect and deliver enterprise-grade solutions for public and private sector organizations. My perspective combines operational execution with hands-on engineering, enabling me to build systems that solve real-world challenges.
 
-As a **Senior Technical Program Manager**, I lead the implementation and deployment of cloud-based ecosystems that aggregate live video, data, and sensor feeds from diverse sources to provide unified situational awareness for enterprise security.
+As a **Senior Technical Program Manager**, I lead the implementation and deployment of cloud-based ecosystems that aggregate live video, data, and sensor feeds from diverse sources to provide unified situational awareness for law enforcement and enterprise security.
 
 **Core Focus Areas:**
 - Orchestrating complex technical integrations across diverse systems
